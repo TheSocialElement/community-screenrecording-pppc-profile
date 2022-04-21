@@ -837,6 +837,32 @@
 						<key>IdentifierType</key>
 						<string>bundleID</string>
 					</dict>
+					<dict>
+						<key>Authorization</key>
+						<string>AllowStandardUserToSetSystemService</string>
+						<key>CodeRequirement</key>
+						<string>identifier "com.zoho.assist.Zoho" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = TZ824L8Y37</string>
+						<key>Comment</key>
+						<string>Zoho Assist - Big Sur</string>
+						<key>Identifier</key>
+						<string>com.zoho.assist.Zoho</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
+					</dict>
+					<dict>
+						<key>Authorization</key>
+						<string>AllowStandardUserToSetSystemService</string>
+						<key>CodeRequirement</key>
+						<string>identifier "com.zoho.assist.Zoho" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = TZ824L8Y37</string>
+						<key>Comment</key>
+						<string>Zoho Assist - Monterey</string>
+						<key>Identifier</key>
+						<string>com.zoho.assist.Zoho</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
+						<key>StaticCode</key>
+						<false/>
+					</dict>
 				</array>
 			</dict>
 		</dict>
